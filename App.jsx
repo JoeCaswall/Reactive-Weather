@@ -10,7 +10,7 @@ function App() {
       <h3 className="subtitle">Up to the minute weather news</h3>
       <div className="app">
         {cities.map((city) => (
-          <WeatherCard key={city.name} city={city} />
+          <WeatherCard key={city.id} city={city} />
         ))}
       </div>
     </>
