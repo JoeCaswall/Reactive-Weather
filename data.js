@@ -51,7 +51,7 @@ const cities = [
     id: 9,
     city: "Toronto",
     temperature: 8,
-    forecast: "Snowy",
+    forecast: "Rainy",
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ const cities = [
     id: 15,
     city: "Moscow",
     temperature: 2,
-    forecast: "Snowy",
+    forecast: "Rainy",
   },
   {
     id: 16,
